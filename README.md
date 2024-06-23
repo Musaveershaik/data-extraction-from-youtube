@@ -1,7 +1,7 @@
 # Extracting-Youtube-channel
 YouTube Channel Data Extractor
 
-**Project Description for Freelancer Platforms (Upwork, GitHub, Fiverr)**
+**Project Description**
 
 **Title:** YouTube Channel Data Extractor
 
