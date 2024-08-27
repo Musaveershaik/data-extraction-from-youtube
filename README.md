@@ -1,5 +1,4 @@
-# Extracting-Youtube-channel
-YouTube Channel Data Extractor
+# Extracting-Youtube-channel-Data
 
 **Project Description**
 
